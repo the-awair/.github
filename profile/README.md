@@ -1,6 +1,5 @@
 
-![Logo](https://partekimages.vercel.app/1000007999-removebg-preview.png)
-## 
+![Logo](https://partekimages.vercel.app/1000007999-removebg-preview.png)## 
 
 ## 🚀 About
 Partek is a group that makes open source sites, such as [Ligero Proxy](https://ligero-browser.vercel.app) – still in development, will be open source when we clean it up a bit.
